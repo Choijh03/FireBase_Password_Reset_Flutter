@@ -2,19 +2,27 @@
 
 This is FireBase Password Reset Tutorial Application built on Flutter 3.7
 
+-------------------------------------------------------------------------------------
+
 default user: jihun@gmail.com password: password
 
 default User: test@gmail.com password: password
 
 New User added: tkarnrwlehtk@gmail.com password: password
 
+-------------------------------------------------------------------------------------
+
 When resetting password, erros are handeld with alert dialog.
+
+-------------------------------------------------------------------------------------
 
 Previous version List:
 
 https://github.com/Choijh03/FireBase_Login_Logout_Flutter
 
 https://github.com/Choijh03/FireBase_Sign_Up_Flutter
+
+-------------------------------------------------------------------------------------
 
 Android View:
 
